@@ -1,0 +1,1 @@
+mongo localhost/csm c:/csm/csm/MongoDB/feng.js
